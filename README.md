@@ -12,9 +12,9 @@ The purpose is this project to practice AWS by deploying a shorten version of my
 - Created a Cloudfront Distribution.
 
 ## Future Implementations 
-This resume is a part of the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/). 
+This resume is a part of the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/).
 
 I hope to implement the following:
-1) Javascript (To count the number of visitors that have accessed this site)
-2) Adding a Database (Amazon's DynamoDB to save and update the visitor count) 
-3) Implementing an API that communicates with my web application and the DB
+1) Javascript (To count the number of visitors that have accessed this site).
+2) Adding a Database (Amazon's DynamoDB to save and update the visitor count).
+3) Implementing an API that communicates with my web application and the DB.
