@@ -1,8 +1,8 @@
 # Cloud-Resume
-Deploying a shorten version of my current resume into the cloud with AWS (S3, Route 53, AWS Certificate Manager, CloudFront).
+Deploying a shorten version of my current resume into the cloud with AWS (S3, Route 53, AWS Certificate Manager, CloudFront). [Access the resume here.](https://han-pham-resume.click/)
 
 ## Project Description 
-The purpose is this project to practice AWS by deploying a shorten version of my resume
+The purpose is this project to practice AWS by deploying a shorten version of my resume. 
 
 - Created a resume using HTML and CSS.
 - Used a custom domain name using Amazon Route 53.
