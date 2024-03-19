@@ -49,11 +49,12 @@ body {
     margin-bottom: 20px;
   }
   
-  .email ,
+  .counter-number-style ,
   .github {
     color: #999;
     font-weight: 300;
   } 
+  .counter-number-val,
   .github-val {
     color: #000;
   }
