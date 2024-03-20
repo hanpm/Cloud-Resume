@@ -3,7 +3,7 @@ A shorten version of my current resume into the cloud with AWS.
 ### [Live Demo](https://han-pham-resume.click/)
 
 <details>
-<summary>AWS currently used</summary>
+<summary>Services used</summary>
 <br>
   <ul>
     <li>Amazon Route 53</li>
@@ -12,6 +12,7 @@ A shorten version of my current resume into the cloud with AWS.
     <li>Cloudfront</li>
     <li>Lambda</li>
     <li>DynamoDB</li>
+    <li>Github Actions</li>
   <ul>
 </details>
 
