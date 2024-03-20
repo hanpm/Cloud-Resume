@@ -1,4 +1,4 @@
-# Cloud-Resume
+# Cloud-Resume 
 A shorten version of my current resume into the cloud with AWS. 
 ### [Live Demo](https://han-pham-resume.click/)
 
