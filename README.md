@@ -44,5 +44,6 @@ The purpose is this project to practice AWS by deploying a shorten version of my
 I hope to implement the following:
 - [x] Javascript (To count the number of visitors that have accessed this site).
 - [x] Adding a Database (Amazon's DynamoDB to save and update the visitor count).
-- [x] Optional: CI/CD pipeline
-- [x] Optional: Try implementing Terraform
+- [x] CI/CD pipeline
+- [x] Try implementing Terraform for my lambda function
+- [ ] Now, try implementing Terraform for S3 bucket
