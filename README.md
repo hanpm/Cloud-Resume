@@ -12,7 +12,9 @@ A shorten version of my current resume into the cloud with AWS.
     <li>Cloudfront</li>
     <li>Lambda</li>
     <li>DynamoDB</li>
+    <li>IAM</li>
     <li>Github Actions</li>
+    <li>Terraform</li>
   <ul>
 </details>
 
