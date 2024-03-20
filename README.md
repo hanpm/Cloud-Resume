@@ -28,7 +28,7 @@ The purpose is this project to practice AWS by deploying a shorten version of my
 - [x] Created lambda function to get count of visitors viewing the resume site.
 - [x] Added DynamoDB table to save/update visitor count.
 - [x] Developed an API using Lambda services to facilitate communication between a web application and DynamoDB.
-### OPTIONAL Part 3: Integrating CI/CD pipeline 
+### OPTIONAL Part 3: Integrating CI/CD pipeline for Frontend
 - [x] Used Github Actions to create CI/CD pipeline.
 - [x] CI/CD pipeline syncs the S3 bucket and clears the CloudFront cache.  
 ### OPTIONAL Part 4: IaC using Terraform
