@@ -29,14 +29,18 @@ The purpose is this project to practice AWS by deploying a shorten version of my
 - [x] Added DynamoDB table to save/update visitor count.
 - [x] Developed an API using Lambda services to facilitate communication between a web application and DynamoDB.
 ### OPTIONAL Part 3: Integrating CI/CD pipeline for Frontend
+- [x] Created new IAM user for Github Actions
 - [x] Used Github Actions to create CI/CD pipeline.
 - [x] CI/CD pipeline syncs the S3 bucket and clears the CloudFront cache.  
 ### OPTIONAL Part 4: IaC using Terraform
-- To be continued...
+**Implementing terraform for my AWS lambda function:**
+- [x] Created IAM user with appropriate permissions for Terraform
+- [x] Configured AWS credentials, initialized Terraform in project 
+- [x] Attached Lambda function and any other policies it depends on to .tf files
 
 ## Future Implementations 
 I hope to implement the following:
 - [x] Javascript (To count the number of visitors that have accessed this site).
 - [x] Adding a Database (Amazon's DynamoDB to save and update the visitor count).
 - [x] Optional: CI/CD pipeline
-- [x] Optional: Implement Terraform  
+- [x] Optional: Try implementing Terraform
