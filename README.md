@@ -1,13 +1,19 @@
 # Cloud-Resume
 A shorten version of my current resume into the cloud with AWS. 
 ### [Live Demo](https://han-pham-resume.click/)
-### AWS currently used:
-- S3
-- Amazon Route 53
-- Certificate Manager
-- Cloudfront
-- Lambda
-- DynamoDB
+
+<details>
+<summary>AWS currently used</summary>
+<br>
+  <ul>
+    <li>Amazon Route 53</li>
+    <li>S3</li>
+    <li>Certificate Manager</li>
+    <li>Cloudfront</li>
+    <li>Lambda</li>
+    <li>DynamoDB</li>
+  <ul>
+</details>
 
 ## Project Description 
 The purpose is this project to practice AWS by deploying a shorten version of my resume. This resume is a part of the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/). I will be following this challenge to learn more about the cloud. 
