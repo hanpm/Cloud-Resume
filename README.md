@@ -1,7 +1,7 @@
 # Cloud-Resume
-Deploying a shorten version of my current resume into the cloud with AWS. 
+A shorten version of my current resume into the cloud with AWS. 
 ### [Live Demo](https://han-pham-resume.click/)
-### Amazon Web Services used:
+### AWS currently used:
 - S3
 - Amazon Route 53
 - Certificate Manager
@@ -10,7 +10,7 @@ Deploying a shorten version of my current resume into the cloud with AWS.
 - DynamoDB
 
 ## Project Description 
-The purpose is this project to practice AWS by deploying a shorten version of my resume. 
+The purpose is this project to practice AWS by deploying a shorten version of my resume. This resume is a part of the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/). I will be following this challenge to learn more about the cloud. 
 ### Part 1: Secure, static website with a custom domain 
 - Created a resume using HTML and CSS.
 - Used a custom domain name using Amazon Route 53.
@@ -25,8 +25,6 @@ The purpose is this project to practice AWS by deploying a shorten version of my
 ### OPTIONAL: Part 3: Source Control + IaC using Terraform
 
 ## Future Implementations 
-This resume is a part of the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/).
-
 I hope to implement the following:
 [x] Javascript (To count the number of visitors that have accessed this site).
 [x] Adding a Database (Amazon's DynamoDB to save and update the visitor count).
