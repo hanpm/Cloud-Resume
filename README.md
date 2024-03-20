@@ -34,5 +34,5 @@ The purpose is this project to practice AWS by deploying a shorten version of my
 I hope to implement the following:
 - [x] Javascript (To count the number of visitors that have accessed this site).
 - [x] Adding a Database (Amazon's DynamoDB to save and update the visitor count).
-- [ ] Optional: [CI/CD pipeline](https://medium.com/swlh/deploying-a-static-website-to-s3-and-cloudfront-using-github-actions-2b00522e43f3)  
+- [ ] Optional: CI/CD pipeline
 - [ ] Optional: Implement Terraform  
