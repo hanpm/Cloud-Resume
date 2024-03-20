@@ -28,10 +28,11 @@ The purpose is this project to practice AWS by deploying a shorten version of my
 - Created lambda function to get count of visitors viewing the resume site.
 - Added DynamoDB table to save/update visitor count.
 - Developed an API using Lambda services to facilitate communication between a web application and DynamoDB.
-### OPTIONAL: Part 3: Source Control + IaC using Terraform
+### OPTIONAL: Part 3: CI/CD + IaC using Terraform
 
 ## Future Implementations 
 I hope to implement the following:
 - [x] Javascript (To count the number of visitors that have accessed this site).
 - [x] Adding a Database (Amazon's DynamoDB to save and update the visitor count).
+- [ ] Optional: CI/CD integrations  
 - [ ] Optional: Implement Terraform  
