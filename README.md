@@ -39,4 +39,4 @@ I hope to implement the following:
 - [x] Javascript (To count the number of visitors that have accessed this site).
 - [x] Adding a Database (Amazon's DynamoDB to save and update the visitor count).
 - [x] Optional: CI/CD pipeline
-- [ ] Optional: Implement Terraform  
+- [x] Optional: Implement Terraform  
